@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhm_shopping"]=self["webpackChunkhm_shopping"]||[]).push([[814],{1814:function(n,u,e){e.r(u),e.d(u,{default:function(){return o}});var t=function(){var n=this,u=n._self._c;return u("div",[n._v("404")])},l=[],s={name:"NotFound"},r=s,h=e(1656),i=(0,h.A)(r,t,l,!1,null,null,null),o=i.exports}}]);
+//# sourceMappingURL=814.c6a34a72.js.map
